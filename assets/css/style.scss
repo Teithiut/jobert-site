@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 /* MeyerWeb Reset */
 
 html, body, div, span, applet, object, iframe,
@@ -145,5 +147,3 @@ a.buttons:hover {
 	color: #fff;
 	text-decoration: none;
 }
-
-@import "{{ site.theme }}";
