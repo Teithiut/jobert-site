@@ -16,8 +16,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        <h1 class="markdown-body">{{ site.title | default: site.github.repository_name }}</h1>
+        <p class="markdown-body">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
           {% if site.show_downloads %}
@@ -28,7 +28,7 @@
         </ul>
 
         {% if site.github.is_project_page %}
-          <p class="header">This website is maintained by Jobert Leong</p>
+          <p class="markdown-body">This website is maintained by Jobert Leong</p>
         {% endif %}
 
         {% if site.github.is_user_page %}
