@@ -3,9 +3,12 @@ title: Jobert for MUSA President
 ---
 # Let’s Make It Happen:
 # Jobert for MUSA President
+***
 <img src ="assets/Jobert Test.png" alt="TROMBONE TSAR"/>
+
 #### As your next MUSA President, Jobert will:
 ### Connect YOU with our community
+***
 #### Alumni
 - Invite alumni to give seminars and masterclasses
 
@@ -28,14 +31,14 @@ title: Jobert for MUSA President
 - Get music students hired as private music instructors
 
 - Increase outreach to Metro Vancouver music organizations
-
+***
 ### Advocate for YOU
 - Work with the School to lower recital costs
 
 - Explore alternative performance venues outside Chan-owned ones
 
 - Create an anonymous feedback form for music students
-
+***
 ### Improve YOUR student life
 #### Academics
 - Organize peer tutoring/group studying sessions
@@ -57,7 +60,7 @@ title: Jobert for MUSA President
 - Provide a steam ironing service for dress clothes
 
 - (Arts Purple Card)
-
+***
 ### Jobert has already:
 - Introduced all-new events such as rabbit meet-and-greet, faculty trick-or-treating, and Lunar New Year celebrations
 
