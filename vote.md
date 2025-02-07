@@ -46,6 +46,7 @@ title: Jobert for MUSA President
 - Organize low-cost, high-fun events, such as locker decoration competitions and jam sessions
 
 - Recruit more sponsors for MUSA events
+
 #### And more!
 - Give weekly Instagram updates on opportunities for music students
 
