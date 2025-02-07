@@ -1,7 +1,8 @@
 ---
 title: Jobert for MUSA President
 ---
-# Let’s Make It Happen: Jobert for MUSA President
+# Let’s Make It Happen:
+# Jobert for MUSA President
 <img src ="assets/Jobert Test.png" alt="TROMBONE TSAR"/>
 #### As your next MUSA President, Jobert will:
 ### Connect YOU with our community
@@ -65,4 +66,6 @@ title: Jobert for MUSA President
 
 - Freed up more lockers for you
 
-# Want more? Let’s make it happen. Vote Jobert for MUSA President
+# Want more?
+# Let’s make it happen.
+# Vote Jobert for MUSA President
