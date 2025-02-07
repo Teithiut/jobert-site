@@ -1,4 +1,4 @@
 ---
 title: Archive
 ---
-[Archive Test](_archive/arch_test.md)
+[Archive Test](_archive/arch_test.html)
