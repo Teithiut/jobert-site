@@ -1,5 +1,5 @@
 ---
-title: Jobert for MUSA President
+title: Vote Jobert
 ---
 # Let’s Make It Happen:
 # Jobert for MUSA President
