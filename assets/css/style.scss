@@ -55,26 +55,29 @@ h1, h2, h3 {
 }
 
 h1,h2, h3 {
-	display: block;
-	border-bottom: 1px solid #ccc;
-	padding-bottom: 5px;
+	// display: block;
+	// border-bottom: 1px solid #ccc;
+	// padding-bottom: 5px;
 }
 
 h1 {
 	font-size: 30px;
+	font-weight: 700;
 }
 
 h2 {
 	font-size: 24px;
+	font-weight: 600;
 }
 
 h3 {
 	font-size: 18px;
+	font-weight: 500;
 }
 
 h4, h5, h6 {
-	font-family: Arvo, Monaco, serif;
-	font-weight: 700;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 400;
 }
 
 a {
