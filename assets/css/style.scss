@@ -81,7 +81,7 @@ h4, h5, h6 {
 }
 
 a {
-  //color:#0000FF;
+  color:#0000FF;
   font-weight:200;
   text-decoration:none;
 }
@@ -214,7 +214,7 @@ td {
 
 /* Wrapper */
 .wrapper {
-  max-width:100%;
+  width:960px;
 }
 
 
@@ -326,7 +326,7 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  max-width:100%;
+  width:650px;
   float:right;
   padding-bottom:50px;
 }
@@ -342,17 +342,17 @@ footer {
 	padding-left: 50px;
 }
 
-@media print, screen and (max-width: 100%) {
+@media print, screen and (max-width: 960px) {
 
   div.wrapper {
-    max-width:100%;
+    width:auto;
     margin:0;
   }
 
   header, section, footer {
     float:none;
     position:static;
-    max-width:100%;
+    width:auto;
   }
 
 	footer {
@@ -381,7 +381,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 100%) {
+@media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
   }
