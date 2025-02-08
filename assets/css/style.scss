@@ -81,7 +81,7 @@ h4, h5, h6 {
 }
 
 a {
-  color:#4D8DDB;
+  color:#0000FF;
   font-weight:200;
   text-decoration:none;
 }
@@ -269,43 +269,44 @@ header ul {
   padding:0;
 }
 
+//Chat-GPT'd CSS starts here
 header li {
 	list-style-type: none;
-  width:132px;
-  height:15px;
+	width: 132px;
+	height: 15px;
 	margin-bottom: 12px;
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
 
-	background: #AF0011;
-	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -o-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: -ms-linear-gradient(top, #AF0011 0%,#820011 100%);
-  background: linear-gradient(to top, #AF0011 0%,#820011 100%);
+	background: #0000FF; /* Changed from #AF0011 to blue */
+	background: -moz-linear-gradient(top, #0000FF 0%, #0033CC 100%); /* Changed from #820011 to blue shades */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+	background: -webkit-linear-gradient(top, #0000FF 0%, #0033CC 100%);
+	background: -o-linear-gradient(top, #0000FF 0%, #0033CC 100%);
+	background: -ms-linear-gradient(top, #0000FF 0%, #0033CC 100%);
+	background: linear-gradient(to top, #0000FF 0%, #0033CC 100%);
 
-	border-radius:4px;
-  border:1px solid #0D0D0D;
+	border-radius: 4px;
+	border: 1px solid #0D0D0D;
 
-	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
-	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
-
+	-webkit-box-shadow: inset 0px 1px 1px 0 rgba(0,0,255, 1); /* Changed from red to blue */
+	box-shadow: inset 0px 1px 1px 0 rgba(0,0,255, 1); /* Changed from red to blue */
 }
 
 header li:hover {
-	background: #C3001D;
-	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: -o-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: -ms-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: linear-gradient(to top, #C3001D 0%,#950119 100%);
+	background: #0066CC; /* Changed from #C3001D to blue */
+	background: -moz-linear-gradient(top, #0066CC 0%, #0044B3 100%); /* Changed from #950119 to blue shades */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+	background: -webkit-linear-gradient(top, #0066CC 0%, #0044B3 100%);
+	background: -o-linear-gradient(top, #0066CC 0%, #0044B3 100%);
+	background: -ms-linear-gradient(top, #0066CC 0%, #0044B3 100%);
+	background: linear-gradient(to top, #0066CC 0%, #0044B3 100%);
 }
+//Chat-GPT'd CSS ends here
 
 a.buttons {
 	-webkit-font-smoothing: antialiased;
-	background: #AF0011;
+	background: #0000FF;
 	font-weight: normal;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
 	padding: 2px 2px 2px 22px;
