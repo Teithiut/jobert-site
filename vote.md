@@ -5,7 +5,7 @@ title: Vote Jobert
 # Jobert for MUSA President
 
 ***
-<img src ="assets/Jobert Test.png" alt="TROMBONE TSAR"/>
+<img src ="assets/images/Jobert Test.png" alt="TROMBONE TSAR"/>
 
 #### As your next MUSA President, Jobert will:
 ### Connect YOU with our community
