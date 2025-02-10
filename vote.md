@@ -61,7 +61,7 @@ title: Vote Jobert
 
 - Promote useful discounts for music students, such as those at Tom Lee and Long & McQuade
 
-- Provide a steam ironing service for dress clothes
+- (Provide a steam ironing service for dress clothes)
 
 - (Arts Purple Card)
 
