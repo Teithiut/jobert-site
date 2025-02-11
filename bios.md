@@ -1,7 +1,7 @@
 ---
 title: Bios/Press
 ---
-# Bios
+# Bios/Press
 ## 50 words:
 **Jobert Leong** is a Hong Kong-born, Vancouver-based trombonist. He is studying with Andrew Poirier at the University of British Columbia. Jobert achieved Distinction in his Grade 8 ABRSM trombone exam, performs with the UBC Symphony Orchestra, and has multiple UBC scholarships. Jobert aims to get a DMA in trombone performance.
 
