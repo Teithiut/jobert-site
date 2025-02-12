@@ -10,7 +10,6 @@ title: Vote Jobert
 #### As your next MUSA President, Jobert will:
 ### Connect YOU with our community
 
-***
 #### Alumni
 - Invite alumni to give seminars and masterclasses
 
