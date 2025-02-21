@@ -21,6 +21,8 @@ title: Vote Jobert
 
 - Collaborate with non-School music clubs
 
+- Increase cooperation with the Arts Undergraduate Society
+
 #### Community
 - Revive the 'Hire a Student' program
 
