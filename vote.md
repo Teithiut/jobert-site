@@ -61,6 +61,8 @@ title: Vote Jobert
 
 - Promote useful discounts for music students, such as those at Tom Lee and Long & McQuade
 
+- Restore MUSA's historic impartiality towards AMS affairs
+
 - (Provide a steam ironing service for dress clothes)
 
 - (Arts Purple Card)
