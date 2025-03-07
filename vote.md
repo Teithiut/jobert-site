@@ -52,6 +52,8 @@ title: Vote Jobert
 #### Events
 - Organize low-cost, high-fun events, such as locker decoration competitions and jam sessions
 
+- Improve MUSA's physical presence around the School
+
 - Recruit more sponsors for MUSA events
 
 #### And more!
@@ -63,15 +65,15 @@ title: Vote Jobert
 
 - Restore MUSA's historic impartiality towards AMS affairs
 
-- (Provide a steam ironing service for dress clothes)
-
-- (Arts Purple Card)
+- Negotiate with the AUS to give music students the Arts Purple Card
 
 ***
 ### Jobert has already:
 - Introduced all-new events such as rabbit meet-and-greet, faculty trick-or-treating, and Lunar New Year celebrations
 
 - Investigated students’ concerns about the Chan Centre, including recital fees and lobby entry costs
+
+- Recruited sponsors for this year's formal
 
 - Given MUSA a seat on the director search committee
 
