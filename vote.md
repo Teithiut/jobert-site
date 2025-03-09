@@ -24,7 +24,7 @@ title: Vote Jobert
 - Increase cooperation with the Arts Undergraduate Society
 
 #### Community
-- Revive the 'Hire a Student' program
+- Revive the 'Hire a Student' program for external performances
 
 - Assist music students in running programs and masterclasses at local schools
 
@@ -47,17 +47,19 @@ title: Vote Jobert
 #### Academics
 - Organize peer tutoring/group studying sessions
 
-- Create a public repository of class resources
+- Create a public repository of class resources 
 
 #### Events
 - Organize low-cost, high-fun events, such as locker decoration competitions and jam sessions
 
-- Improve MUSA's physical presence around the School
+- Host monthly Costco shopping trips to aid students' cost of living in Metro Vancouver
+
+- Improve MUSA's physical presence around the School through ad-hoc boothing
 
 - Recruit more sponsors for MUSA events
 
 #### And more!
-- Give weekly Instagram updates on opportunities for music students
+- Give weekly updates on opportunities for music students through Instagram and email
 
 - Transform the MUSA Discord server into a central hub for music student life
 
