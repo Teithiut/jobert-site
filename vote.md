@@ -47,7 +47,7 @@ title: Vote Jobert
 #### Academics
 - Organize peer tutoring/group studying sessions
 
-- Create a public repository of class resources 
+- Create a public repository of class resources
 
 #### Events
 - Organize low-cost, high-fun events, such as locker decoration competitions and jam sessions
@@ -75,7 +75,9 @@ title: Vote Jobert
 
 - Investigated students’ concerns about the Chan Centre, including recital fees and lobby entry costs
 
-- Recruited sponsors for this year's formal
+- Recruited new and returning sponsors for this year's formal
+
+- Brought up music students' concerns with the Arts Student Senator and AMS VP Academic
 
 - Given MUSA a seat on the director search committee
 
