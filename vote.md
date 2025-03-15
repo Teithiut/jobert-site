@@ -52,7 +52,7 @@ title: Vote Jobert
 #### Events
 - Organize low-cost, high-fun events, such as locker decoration competitions and jam sessions
 
-- Host monthly Costco shopping trips to aid students' cost of living in Metro Vancouver
+- Host Costco shopping trips to aid students' cost of living in Metro Vancouver
 
 - Improve MUSA's physical presence around the School through ad-hoc boothing
 
@@ -75,7 +75,7 @@ title: Vote Jobert
 
 - Investigated students’ concerns about the Chan Centre, including recital fees and lobby entry costs
 
-- Recruited new and returning sponsors for this year's formal
+- Recruited new and returning sponsors for this year's formal, giving you over $500 worth of prizes
 
 - Brought up music students' concerns with the Arts Student Senator and AMS VP Academic
 
