@@ -56,6 +56,8 @@ title: Vote Jobert
 
 - Improve MUSA's physical presence around the School through ad-hoc boothing
 
+- Continue successful MUSA events, such as Free Breakfast Friday and Koerner's Nights
+
 - Recruit more sponsors for MUSA events
 
 #### And more!
