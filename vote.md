@@ -2,7 +2,7 @@
 title: Vote Jobert
 ---
 # Let’s Make It Happen:
-# [Vote](www.ams.simplyvoting.com) Jobert for MUSA President
+# [Vote](https://ams.simplyvoting.com) Jobert for MUSA President
 
 ***
 <img src ="assets/images/LMIH.png" alt="Let's Make It Happen"/>
@@ -87,4 +87,4 @@ title: Vote Jobert
 
 # Want more?
 # Let’s make it happen.
-# [Vote](www.ams.simplyvoting.com) Jobert for MUSA President
+# [Vote](https://ams.simplyvoting.com) Jobert for MUSA President
