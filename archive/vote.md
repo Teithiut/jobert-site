@@ -5,7 +5,7 @@ title: Vote Jobert
 # [Vote](https://ams.simplyvoting.com) Jobert for MUSA President
 
 ***
-<img src ="assets/images/LMIH.png" alt="Let's Make It Happen"/>
+<img src ="./assets/images/LMIH.png" alt="Let's Make It Happen"/>
 
 #### As your next MUSA President, Jobert will:
 ### Connect YOU with our community
