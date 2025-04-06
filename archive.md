@@ -6,9 +6,7 @@ title: Archive
 ## Undergraduate
 ### 2025 - Atlantic Zephyrs
 <img src ="./assets/images/2025 Recital Poster.JPG" alt="2025 Recital Poster - Atlantic Zephyrs"/>
-
-[Recital Program](/assets/docs/Jobert Leong Recital 2025.pdf)
-
+<a href="assets/docs/Jobert Leong Recital 2025.pdf">Recital Program</a>
 
 # Miscellaneous
 [Vote Jobert - Jobert for MUSA President](/archive/vote.html)
