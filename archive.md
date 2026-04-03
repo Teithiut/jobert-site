@@ -9,7 +9,7 @@ title: Archive
 <a href="assets/docs/Jobert Leong Recital 2025.pdf">Recital Programme</a>
 
 ### 2026 - The Last Dance
-<img src ="./assets/images/2026 Recital Poster.JPG" alt="2026 Recital Poster - The Last Dance"/>
+<img src ="./assets/images/2026 Recital Poster.jpg" alt="2026 Recital Poster - The Last Dance"/>
 <a href="assets/docs/Jobert Leong Recital 2026.pdf">Recital Programme</a>
 
 # Miscellaneous
