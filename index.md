@@ -6,7 +6,7 @@ description : Test description
 
 Welcome to the official website of Jobert Leong.
 
-#Blog (Test)
+# Blog (Test)
 
 <ul>
   {% for post in site.posts %}
