@@ -9,10 +9,19 @@ Welcome to the official website of Jobert Leong.
 ## Blog (Test)
 
 ### Latest Post
-{% for post in site.posts limit:1 %}
-... Show the first post all big ...
-{% endfor %}
+<ul>
+  {% for post in site.posts limit:1 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.date | date: "%Y %B %e" }} - {{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+
 ### Recent Posts
-{% for post in site.posts offset:1 limit:2 %}
-... Show the next two posts ...
-{% endfor %}
+<ul>
+  {% for post in site.posts offset:1 limit:2 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.date | date: "%Y %B %e" }} - {{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
