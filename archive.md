@@ -20,3 +20,12 @@ title: Archive
 [Archive Test](/archive/arch_test.html)
 
 <a href="archive/folder_arch_test.html">Folder Archive Test</a>
+
+# Blog
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date | date: "%Y %B %e" }} - {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
