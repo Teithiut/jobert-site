@@ -4,6 +4,8 @@ author : Jobert
 description : Test description
 ---
 
+<img src ="./assets/images/PFP1.JPG" alt="Jobert with trombone near SkyTrain."/>
+
 Welcome to the official website of Jobert Leong.
 
 ## Blog (Test)
