@@ -2,6 +2,10 @@
 title: Bios/Press
 ---
 # Bios/Press
+
+<br>
+<img src ="./assets/images/Headshot1.jpeg" alt="Jobert looking pensively over his shoulder with trombone."/>
+
 ## 50 words:
 **Jobert Leong** is a Hong Kong-born, Vancouver-based tenor trombonist. After studying with Andrew Poirier at the University of British Columbia, Jobert will pursue graduate studies at the Royal Northern College of Music. Jobert performs with orchestras around the Vancouver area, plays the bass sackbut, and gives back through his music.
 
