@@ -4,11 +4,12 @@ author : Jobert
 description : Test description
 ---
 # Jobert Leong | Trombonist
-
-
+<br>
 <img src ="./assets/images/PFP1.JPG" alt="Jobert with trombone near SkyTrain."/>
 
-Hi, I'm Jobert. If you need someone to play the trombone, look no further. I do plenty of other things as well, so feel free to check them out while you're here.
+Hi, I'm Jobert. If you need someone to play the trombone, look no further.
+
+I do plenty of other things as well, so feel free to check them out while you're here.
 
 ## Blog (Test)
 
