@@ -23,4 +23,4 @@ Giving back with music is another core component of Jobert’s musical practice,
 
 ### Download press package <a href="assets/docs/Jobert Leong Press 2026.zip">HERE</a>.
 
-<img src ="./assets/images/Headshot1.jpeg" alt="Jobert looking pensively over his shoulder with trombone."/>
+<img src ="./assets/images/Headshot3.JPG" alt="Jobert standing triumphantly with trombone."/>
