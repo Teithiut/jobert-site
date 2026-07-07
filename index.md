@@ -11,7 +11,7 @@ Hi, I'm Jobert. If you need someone to play the trombone, look no further.
 
 I do plenty of other things as well, so feel free to check them out while you're here.
 
-## Blog (Test)
+## Blog (Coming Soon!)
 
 ### Latest Post
 <ul>
