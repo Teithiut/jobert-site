@@ -8,3 +8,6 @@ title: Connect with Jobert
 &#128247; <a href="https://www.instagram.com/jobert_trombone">Instagram</a> - Latest musical updates
 
 **in** <a href="https://www.linkedin.com/in/jobertleong/">LinkedIn</a> - Professional opportunities
+
+<br>
+<img src ="./assets/images/Headshot6.JPG" alt="Jobert leaning on tree with trombone."/>
