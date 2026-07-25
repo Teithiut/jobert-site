@@ -5,7 +5,7 @@ date: 2026-07-24
 
 # A New Blog, New Job, and New Clothes
 
-<img src ="./assets/images/2026-07-24.JPG" alt="Collage for 2026-07-24"/>
+<img src ="../assets/images/2026-07-24.JPG" alt="Collage for 2026-07-24"/>
 
 Hello and welcome to the first of my weekly blog posts! Since I'll be heading to the UK to pursue masters studies in September, I thought blogging would be a fun way to keep everyone back home updated on what's going on in my life, especially since writing has always been one of my hobbies.
 
