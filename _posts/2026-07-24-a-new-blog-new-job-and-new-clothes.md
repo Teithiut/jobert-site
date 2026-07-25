@@ -3,9 +3,9 @@ title: "A New Blog, New Job, and ()"
 date: 2026-07-24
 ---
 
-# A New Blog, New Job, and ()
+# A New Blog, New Job, and New Clothes
 
-(Intro, sections, photos, book club?)
+<img src ="./assets/images/2026-07-24.JPG" alt="Collage for 2026-07-24"/>
 
 Hello and welcome to the first of my weekly blog posts! Since I'll be heading to the UK to pursue masters studies in September, I thought blogging would be a fun way to keep everyone back home updated on what's going on in my life, especially since writing has always been one of my hobbies.
 
@@ -29,10 +29,6 @@ For the **21st**, I helped set up and strike EMV's free event at Granville islan
 
 Thankfully, I learned that the cast were able to make their own coffee when I returned to the Old Aud on the **22nd**. Aside from refreshment duties, nothing out of the ordinary happened during this day, though I did need to do a mid-lunch break restocking of coffee creamer and buy some more fruit afterwards.
 
-Aside from refreshment duties, I helped grommet large pieces of cloth on the **23rd**, which will be used as drapes for the production of Orfeo. This involved sandwiching holes I cut in the cloth between two brass rings, before squashing them together with a clamp, not unlike making a button badge. In total, I had to grommet 72 holes (12 pieces of cloth with 6 holes each), nd the entire process took around 2 hours, even with the process I used to speed things up.
+I helped grommet large pieces of cloth on the **23rd**, which will be used as drapes for the production of Orfeo. This involved sandwiching holes I cut in the cloth between two brass rings, before squashing them together with a clamp, not unlike making a button badge. In total, I had to grommet 72 holes (12 pieces of cloth with 6 holes each), nd the entire process took around 2 hours, even with the process I used to speed things up.
 
-## Book Club
-
-In this section, I'll be discussing a book I read during this week. Since I usually go through two books a month depending on length and my downtime, this section won't appear that frequently.
-
-I started reading **Values** by Mark Carney a few weeks ago, as I believe picking the current Prime Minister's brains is the best way to understand the direction he plans to steer Canada in. Since this book was published in the wake of the COVID-19 pandemic, and before he became Prime Minister, it's interesting to see what policy suggestions (along with his contradictions and eerily-correct predictions). At least he has a plan, even if I disagree with some parts of it.
+The **24th** was similar, although grommeting was replaced with moving more things into the Chan Centre, specifically into the Telus Theatre. This only took less than 30 minutes and didn't involve anything too heavy, so it was less painless than my other moving duties.
