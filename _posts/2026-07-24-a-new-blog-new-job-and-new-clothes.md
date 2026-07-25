@@ -1,5 +1,5 @@
 ---
-title: "A New Blog, New Job, and ()"
+title: "A New Blog, New Job, and New Clothes"
 date: 2026-07-24
 ---
 
