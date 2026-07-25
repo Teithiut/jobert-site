@@ -1,6 +1,7 @@
 ---
 title: "A New Blog, New Job, and New Clothes"
 date: 2026-07-24
+tags: update
 ---
 
 # A New Blog, New Job, and New Clothes
