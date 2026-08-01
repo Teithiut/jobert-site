@@ -12,6 +12,8 @@ tags: update new book
 - Paper cups stressed me out a lot
 - Cheese stressed me out even more
 
+![Collage for 2026-07-31](/assets/images/2026-07-31.JPG)
+
 ## New and Improved
 
 I'll be documenting additions and changes to my blog's content in this section, along with my reasons for introducing them. Think of it like update notes for a video game or an app. Since I'll be testing a lot of new things over the next few weeks, expect plenty of comments here.
@@ -22,11 +24,11 @@ I'll be documenting additions and changes to my blog's content in this section, 
 
 ## Life Update
 
-Even though it was a Saturday, I still had to work on the **25th**, as there were two harpsichords that needed moving into the Chan Centre before Orfeo rehearsals resumed there the next day. The first harpsichord that needed moving was the one being used for rehearsals in the Old Aud, while the second one was from the basement of the UBC School of Music. Each harpsichord had its unique challenge when being moved, mainly due to their location and the differing design on their legs, but the main difficulty of getting them onto the van that took them to the Chan Centre were the multiple sets of doors thay both had to pass through.
+Even though it was a Saturday, I still had to work on the **25th**, as there were two harpsichords that needed moving into the Chan Centre before Orfeo rehearsals resumed there the next day. The first harpsichord that needed moving was the one being used for rehearsals in the Old Aud, while the second one was from the basement of the UBC School of Music. Each harpsichord had its unique challenge when being moved, mainly due to their location and the differing design of their legs, but the main difficulty of getting them onto the van that took them to the Chan Centre were the multiple sets of doors they both had to pass through.
 
 After stocking up on some more refreshments, I resumed my hospitality set-up duties on the **26th**, this time in the Chan Centre's Telus Theatre. Aside from the change in venue, I also helped to set up chairs and music stands for the instrumentalists' rehearsal, as the singers weren't coming until later in the day. Since this was basically what I did for my stint as a stage manager during my last year at UBC, it was a rather smooth affair.
 
-Once I was done setting up, I took a tour of the modified-for-Orfeo concert hall, where I saw the fabric sheets I grommted now draped above the stage. Guess that technically means I now have some experience in stagecraft.
+Once I was done setting up, I took a tour of the modified-for-Orfeo concert hall, where I saw the fabric sheets I grommeted now being draped above the stage. Guess that technically means I now have some experience in stagecraft.
 
 (Side note: do three harpsichords, a viola da gamba, a theorbo, and a harp count as a string ensemble? Because that was the type of ensemble that began rehearsing as I left.)
 
@@ -38,9 +40,9 @@ The paper cup saga continued on the **29th**, as while there were enough cups wh
 
 Ultimately, I managed to get all the paper cups I needed before work on the **30th**, though not at the location I intended, as there weren't any being sold there when I arrived. I instead brought some more refreshments at my first stop, then quickly moved on to somewhere else I knew they would be stocked. This also had the unfortunate side effect of me getting a worse deal, but I didn't really have any other options left at that point.
 
-While I needed to bring in some more snacks before Orfeo's first performance on the **31st**, the addition of cheese to my shopping list this time proved to be troublesome, as I had to hit up three supermarkets in quick succession before finally finding something similar to what I wanted (a cheese platter, which none of them sold). In the end, I bought several packs of discounted bite-size cheese curds as a substitute, before spreading them out on a plate once I got to the Chan Centre. I hope no one noticed
+While I needed to bring in some more snacks before Orfeo's first performance on the **31st**, the addition of cheese to my shopping list this time proved to be troublesome, as I had to hit up three different supermarkets in quick succession before finally finding something similar to what I wanted (a cheese platter, which none of them sold). In the end, I bought several packs of discounted bite-size cheese curds as a substitute, before spreading them out on a plate once I got to the Chan Centre. As long as no one notices this slight discrepancy in the type of cheese they're eating, I say it's mission accomplished.
 
-There's one last thing I'll be doing, but it'll be after I publish this post, so I may include it in next week's. Stay tuned!
+There's one last thing I'll be doing, but it'll be after I publish this post, so I may include it as part of next week's. Stay tuned!
 
 ## Book Club
 
