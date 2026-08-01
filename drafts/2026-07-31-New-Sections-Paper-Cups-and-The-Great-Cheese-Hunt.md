@@ -1,15 +1,16 @@
 ---
-title: "TITLE"
+title: "New Sections, Paper Cups, and The Great Cheese Hunt"
 date: 2026-07-31
-tags: update new
+tags: update new book
 ---
 
-# New Sections, Paper Cups, and ()
+# New Sections, Paper Cups, and The Great Cheese Hunt
 
 **TL;DR**:
 
 - I added new sections to my blog posts
 - Paper cups stressed me out a lot
+- Cheese stressed me out even more
 
 ## New and Improved
 
@@ -37,10 +38,14 @@ The paper cup saga continued on the **29th**, as while there were enough cups wh
 
 Ultimately, I managed to get all the paper cups I needed before work on the **30th**, though not at the location I intended, as there weren't any being sold there when I arrived. I instead brought some more refreshments at my first stop, then quickly moved on to somewhere else I knew they would be stocked. This also had the unfortunate side effect of me getting a worse deal, but I didn't really have any other options left at that point.
 
+While I needed to bring in some more snacks before Orfeo's first performance on the **31st**, the addition of cheese to my shopping list this time proved to be troublesome, as I had to hit up three supermarkets in quick succession before finally finding something similar to what I wanted (a cheese platter, which none of them sold). In the end, I bought several packs of discounted bite-size cheese curds as a substitute, before spreading them out on a plate once I got to the Chan Centre. I hope no one noticed
+
+There's one last thing I'll be doing, but it'll be after I publish this post, so I may include it in next week's. Stay tuned!
+
 ## Book Club
 
 In this section, I'll be discussing a book I read during this week. Since I usually go through two books a month depending on their length and my downtime, this section won't appear that frequently.
 
-I started reading **Values** by Mark Carney a few weeks ago, as I believe understanding how the current Prime Minister's approaches problems is the best way to find out what direction he plans to steer Canada in. Since this book was published before he became Prime Minister, it's interesting to see which ideas from it he's currently implementing, along with the contradictions between what he writes from the perspective of an economist and actually does as a Prime Minister. The most blatant example of this are his recommendations on reducing emissions to combat excessive climate change in Values, while approving major fossil fuel infrastructure projects as Prime Minister, thus contributing to what he calls the greatest problem of our lives.
+I started reading **Value(s)** by Mark Carney a few weeks ago, as I believe understanding how the current Prime Minister's approaches problems is the best way to find out what direction he plans to steer Canada in. Since this book was published before he became Prime Minister, it's interesting to see which ideas from it he's currently implementing, along with the contradictions between what he writes from the perspective of an economist and actually does as a Prime Minister. The most blatant example of this are his recommendations on reducing emissions to combat excessive climate change in Value(s), while approving major fossil fuel infrastructure projects as Prime Minister, thus contributing to what he calls the greatest problem of our lives.
 
-Even so, what Carney has written in Values convinced me that he has a plan to navigate Canada through its current crisis, as some of the observations and predictions he foresaw turned out to be eerily accurate. In particular, his remarks during the 2008 financial crisis on American hegemony soon coming to an end were proven doubly true since he became Prime Minister, though I think he did not antticipate that it would happen under these sorts of circumstances. Despite his obvious shortcomings in areas he supposedly cares about, Carney clearly has a concrete and thought-out vision for Canada's future, and nowhere is this more apparent than what he lays out in Values
+Even so, what Carney has written in Value(s) convinced me that he has a plan to navigate Canada through its current crisis, as some of the observations and predictions he foresaw turned out to be eerily accurate. In particular, his remarks during the 2008 financial crisis on American hegemony soon coming to an end were proven doubly true since he became Prime Minister, though I think he did not antticipate that it would happen under these sorts of circumstances. Despite his obvious shortcomings in areas he supposedly cares about, Carney clearly has a concrete and thought-out vision for Canada's future, and nowhere is this more apparent than what he lays out in Value(s).
