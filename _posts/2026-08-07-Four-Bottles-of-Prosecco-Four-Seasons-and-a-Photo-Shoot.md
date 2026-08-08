@@ -1,5 +1,5 @@
 ---
-title: "Title"
+title: "Four Bottles of Prosecco, Four Seasons, and a Photo Shoot"
 date: 2026-08-07
 tags: update new review_baked
 ---
@@ -11,6 +11,8 @@ tags: update new review_baked
 - I attended Early Music Vancouver's production of Monteverdi's Orfeo
 - I also attended and helped with EMV's production of Vivaldi's The Four Seasons
 - I assisted with an EMV photo shoot
+
+![Collage for 2026-08-07](/assets/images/2026-08-07.JPG)
 
 ## New and Improved
 
@@ -56,9 +58,11 @@ What enhanced the performance even more were the short descriptive poems that we
 
 And with that, aside from one final task next week, I am officially done with my job as EMV's Summer Production Assistant! It was honestly an amazing time working for them in this capacity, and I hope that our paths can cross again in the future!
 
-~~If anyone from EMV is reading this, please program more sackbut music.~~
+~~If anyone from EMV is reading this, please program more sackbut music. Thanks!~~
 
 ## Baked Pork Chop Rice Review
+
+![Lobster baked pork chop rice I ate on 2026-08-01](/assets/images/BPCR_2026-08-07.jpeg)
 
 In this section, I'll be reviewing different restaurants' takes on my favourite dish - baked pork chop rice. For those of you who don't know what it is, baked pork chop rice is a Hong Kong dish comprised of a pork chop on top of rice, which is then covered in tomato sauce and cheese before being baked. The result is a gooey and juicy dish that's bound to leave you stuffed, and it's been my to-go meal at almost every place that serves it since I was young. While I've been keeping a mental scoreboard of every place I've had baked pork chop rice at, I thought putting it here would be a fun and unique section of blog, so expect more of it in the future.
 
