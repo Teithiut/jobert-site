@@ -1,8 +1,7 @@
 ---
-title: "Invoicing, Returns, and Renaissance Music Summer School
-"
+title: "Invoicing, Returns, and Renaissance Music Summer School"
 date: 2026-08-14
-tags: update book new practice
+tags: update new practice
 ---
 
 # Invoicing, Returns, and Renaissance Music Summer School
@@ -11,6 +10,8 @@ tags: update book new practice
 - I spent a long time making an invoice for my summer job
 - I finished up my EMV job by helping return instruments and equipment
 - I attended the first two days of Renaissance Music Summer School
+
+![Collage for 2026-08-014](/assets/images/2026-08-14.JPG)
 
 ## New and Improved
 
@@ -32,7 +33,7 @@ All that is to say, I was basically cooped up in a church like a monk with a sac
 
 On the way home from the workshop, I stopped by the Vancouver Metropolitan Orchestra's free outdoor concert at Jack Poole Plaza, since I knew a couple of friend were playing there. While I only caught the tail end of the programme's first half, I did manage to meet up with them before continuing on my journey.
 
-The **14th** consisted of even more rehearsals of the previous day's material in preparation for a performance on the workshop's final day, although this was broken up early on by a lecture by Catherine Motuz on ornamentation in early music. This was something I had touched on before in my early music studies at UBC, but
+The **14th** consisted of even more rehearsals of the previous day's material in preparation for a performance on the workshop's final day, although this was broken up early on by a lecture by Catherine Motuz on ornamentation in early music. This was something I had touched on in my early music studies at UBC, but I didn't really put them into practice before because I mainly played continuo parts and the bass sackbut was too clunky to play the grace notes required for most ornamentation techniques. However, Catherine Motuz offered me some advice on simplifying ornaments on bass sackbut, and I was able to try this out during later rehearsal sessions.
 
 ## Practice Room
 
@@ -40,20 +41,4 @@ In this section, I'll be sharing any breakthroughs I made in my playing during m
 
 During my usual practice session on the **10th**, I had some trouble with long phrases in my high range until I adopted a particular aspect from one of my warmup exercises. By using the minimum possible amount of air to play these phrases at the softest possible dynamic, I was able to make my airflow and embouchure more efficient, rather than solely relying on raw air-power to hit high notes. When I resumed playing these phrases at their regular dynamic, it was easier to go through them without ruining my chops or getting frustrated, so I'll continue to try this with even more phrases and see if this fixes my perennial high-range problem.
 
-In Catherine Motuz's masterclass on the **13th**,
-
-(lips in mouthpiece, note flowing, ornamentation)
-
-## Book Club
-
-For this week's Book Club, I'll be taking a look at M.T. Anderson's **Symphony for the City of the Dead**, which I finished around a month ago. While this book can be read as a biography of Dmitri Shostakovich (my favourite composer), it primarily focuses on his Seventh Symphony, also known as the Leningrad Symphony, and the circumstances that led to its composition and premieres amidst the Nazi invasion of the Soviet Union during the Second World War.
-
-The role of music in society is a recurring theme in this book, and was something which the nascent Soviet Union used and abused to great effect, especially its power to inspire and evoke emotions in people. Nowhere can this be more clearly seen than how some of Shostakovich's works, such as his Fourth Symphony and Lady Macbeth of Mtensk, were denounced by the Soviet government, when the experimental style of composition he composed them in was held up as an example of Communist futurism just a decade before. Replacing it during Stalin's reign was 'socialist realism', a style of art that could be boiled down to 'whatever Stalin liked at the moment'. Thankfully for Shostakovich's career (and his life), his Fifth Symphony (also my favourite symphony) fit the bill, allowing him to live on and compose was was arguably his most influential work.
-
-The Siege of Leningrad (now Saint Petersburg) was one of the most brutal sieges in modern history. Because of Soviet mismanagement, there were inadequate food supplies in the city during the blockade, forcing people to turn to drastic measures just to survive, up to and including cannibalism. While Shostakovich initially participated in the defence of Leningrad as a volunteer firefighter (there's a rather famous photo of him in a firefighter's outfit I'll talk about later), he and his family were ultimately spared the worst of these horrors due to being evacuated at an opportune moment along with other Soviet artists. Nevertheless, his hometown being reduced to such a sorry state left a deep impression in Shostakovich's mind, and the decision to dedicate the symphony he began composing around the siege's beginning to Leningrad itself couldn't be more fitting.
-
-Since the score followed Shostakovich around during his evacuation from city to city, even briefly becoming lost on a train ride east, it was only natural that the Seventh Symphony's first premiere was in Kuibyshev, the city where Shostakovich and his family ended up along with other Soviet elites. However, the Leningrad Symphony's most memorable performance was ultimately destined to be in its namesake city, as its orchestra's musicians braved hunger and exhaustion to pull it off, even being supported by Red Army musicians who replaced orchestra members that had been conscripted. The symphony's Leningrad premiere was deemed so important to Soviet morale that an entire military operation was planned around it just to ensure its successful performance, which went rather smoothly considering everything that had been working against it.
-
-Combined with Shostakovich's pre-existing fame, the circumstances of the Leningrad Symphony's composition and premieres crated massive international demand for it
-
-(fireman outfit on time article, journey of microfilm score, international acclaim)
+In Catherine Motuz's masterclass on the **13th**, she pointed out how I was unconsciously hampering my playing by pushing my lips too deep into my mouthpiece, which put too much strain on my weak inner lip muscles. This was also the problem I was unknowingly trying to solve with my 'soft practicing' technique above, I was able to let more sound come out of my sackbut without sacrificing my chops thanks to her explanation, although it remains to be seen whether I can effectively transfer this onto regular trombone playing. I received some pointers on phrasing early music from Catherine Motuz as well, but this mainly relied on word painting and understanding the text of my pieces, so translating it to regular trombone playing will take some effort and lateral thinking. As an addendum to my earlier mention of ornamentation, the simplified technique I used on bass sackbut was just a three-note trill, though it did help with word painting on the **14th**.
