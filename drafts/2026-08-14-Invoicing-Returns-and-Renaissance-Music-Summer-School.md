@@ -1,12 +1,16 @@
 ---
-title: "Title"
+title: "Invoicing, Returns, and Renaissance Music Summer School
+"
 date: 2026-08-14
 tags: update book new practice
 ---
 
-# Title
+# Invoicing, Returns, and Renaissance Music Summer School
 
 **TL;DR:**
+- I spent a long time making an invoice for my summer job
+- I finished up my EMV job by helping return instruments and equipment
+- I attended the first two days of Renaissance Music Summer School
 
 ## New and Improved
 
@@ -22,17 +26,23 @@ On the **11th**, I did my final day of work for EMV by helping move instruments 
 
 I resumed my regular free day routine on the **12th**, and proved my new high range practice technique's success during that day's session, though I suspect this will be the last day I do so from this point forwards.
 
-One of the reasons for this is because I began attending the three-day Canadian Renaissance Music Summer School for instrumentalists on the **13th**. Since the artist-in-residence for this workshop was renowned sackbut player Catherine Motuz, I knew I had to go and check it out. The workshop's first day mainly consisted of early music ensemble playing with other attendees, which included other sackbut players, string players, some vocalists, and even a serpent player. However, I also got to participate in a masterclass with Catherine Motuz, where I played Willy Byrd's Even From the Depth, a piece I looked at two years ago but didn't get a chance to play. She not only gave me some really useful advice and recontexualized how I should deal with my recurring bad habits when playing, but also made me discover that my summer practice in a tiny room had somewhat ruined my sound projection. Thankfully, this issue should fix itself with more participation in the workshop and going back to school in September.
+One of the reasons for this is because I began attending the three-day Canadian Renaissance Music Summer School for instrumentalists on the **13th**. Since the artist-in-residence for this workshop was renowned sackbut player Catherine Motuz, I knew I had to go and check it out. The workshop's first day mainly consisted of early music ensemble playing with other attendees, which included other sackbut players, string players, some vocalists, and even a serpent player. However, I also got to participate in a masterclass with Catherine Motuz, where I played Willy Byrd's Even From the Depth, a piece I looked at two years ago but didn't get a chance to play. She not only gave me some really useful advice and recontexualized how I should deal with my recurring bad habits when playing, which I'll share in **Practice Room** down below, but also made me discover that my summer practice in a tiny room had somewhat ruined my sound projection. Thankfully, this issue should fix itself with more participation in the workshop and going back to school in September.
 
 All that is to say, I was basically cooped up in a church like a monk with a sackbut all day, but at least I got to have fun and go home at the end of it.
 
 On the way home from the workshop, I stopped by the Vancouver Metropolitan Orchestra's free outdoor concert at Jack Poole Plaza, since I knew a couple of friend were playing there. While I only caught the tail end of the programme's first half, I did manage to meet up with them before continuing on my journey.
 
+The **14th** consisted of even more rehearsals of the previous day's material in preparation for a performance on the workshop's final day, although this was broken up early on by a lecture by Catherine Motuz on ornamentation in early music. This was something I had touched on before in my early music studies at UBC, but
+
 ## Practice Room
 
-In this section, I'll be sharing any breakthroughs I made in my playing during my practice sessions, whether for a particular piece or technique. This may be something I'll turn into a video/reel series in the future, so stay tuned!
+In this section, I'll be sharing any breakthroughs I made in my playing during my practice sessions. I'm also including what I learned in Renaissance Music Summer School this week for future reference. This section may be something I'll turn into a video/reel series in the future, so stay tuned!
 
 During my usual practice session on the **10th**, I had some trouble with long phrases in my high range until I adopted a particular aspect from one of my warmup exercises. By using the minimum possible amount of air to play these phrases at the softest possible dynamic, I was able to make my airflow and embouchure more efficient, rather than solely relying on raw air-power to hit high notes. When I resumed playing these phrases at their regular dynamic, it was easier to go through them without ruining my chops or getting frustrated, so I'll continue to try this with even more phrases and see if this fixes my perennial high-range problem.
+
+In Catherine Motuz's masterclass on the **13th**,
+
+(lips in mouthpiece, note flowing, ornamentation)
 
 ## Book Club
 
