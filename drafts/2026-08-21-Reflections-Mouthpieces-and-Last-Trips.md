@@ -1,12 +1,15 @@
 ---
-title: "Title"
+title: "Reflections, Mouthpieces, and Last Trips"
 date: 2026-08-21
 tags: update new practice book reflections
 ---
 
-# Title
+# Reflections, Mouthpieces, and Last Trips
 
 **TL;DR:**
+- I changed up the style I'll be blogging in
+- I tried out a new mouthpiece during summer school
+- I visited some of my favourite spots in Vancouver one last time
 
 ## New and Improved
 - To reduce clutter, my blog will move away from day-by-day updates to being more section-based
@@ -20,6 +23,10 @@ The **15th** was the final day of the Renaissance Music Summer School for instru
 I returned my bass sackbut to its UBC locker on the **20th**, which will likely be my final time there for a long while, seeing as I depart Vancouver in just a few short days. Still, I didn't really do anything special there apart from take one last walk through the Music Building. Since I didn't really expect to participate in the summer school or work as EMV's summer production assistant, I already bade my farewells with UBC all the way back in May during the graduation ceremonies, so being able to head back one more time by chance was just a nice (if not necessary) bonus.
 
 Thanks for all the memories, UBC and the School of Music. It's been a wonderful four years!
+
+For the same reason I spent an extra little time at UBC, I headed to Deep Cove on the **21st**, one of my favourite 'hideaways' in the Vancouver area. Apart from having a final opportunity to take in the cozy cove that captivated me ever since I first went there, and in an area that really encapsulates British Columbia's beauty, I also got the chance to finally eat one of Dip Co.'s sandwiches, which was just as tasty as the long line outside it suggested. For my order, I went with the Spicy Fabulousa, which was mainly comprised of spicy capicola, eggplant salad (which is a better idea than you'd assume from the name), and a creamy ricotta cheese spread, which made for an explosion of spice and deliciousness with every bite. While this was slightly pricier than my normal sandwich orders, it was still well worth the cost.
+
+Incidentally, Deep Cove is also where Remarkably Bright Creatures, one of my favourite movies of the year, was shot. Is this a teaser for a new section coming soon? Stay tuned to find out!
 
 ## Practice Room
 
