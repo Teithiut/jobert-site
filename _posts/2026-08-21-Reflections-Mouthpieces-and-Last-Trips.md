@@ -11,6 +11,8 @@ tags: update new practice book reflections
 - I tried out a new mouthpiece during summer school
 - I visited some of my favourite spots in Vancouver one last time
 
+![Collage for 2026-08-21](/assets/images/2026-08-21.JPG)
+
 ## New and Improved
 - To reduce clutter, my blog will move away from day-by-day updates to being more section-based
 - I'll also be including more diary-style entries in **Practice Room** for future reference
